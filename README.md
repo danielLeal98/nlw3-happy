@@ -114,6 +114,10 @@ $ yarn start
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/danielLeal98"><img src=https://avatars2.githubusercontent.com/u/37132172?s=460&u=7c43bece5e3160c317bfd4b2162999753567abb5&v=4" width="150px;" alt=""/><br /><sub><b>Daniel Leal</b></sub></a><br /></td>
+  <tr>
+</table>
+        
 Made with 💜&nbsp; by Daniel Leal 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/danielleal98/)
