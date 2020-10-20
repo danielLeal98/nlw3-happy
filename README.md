@@ -13,6 +13,10 @@
   <a href="#-license">License</a>
 </p>
 
+<p align="center">
+  <img alt="Happy" src="https://github.com/EliasGcf/nlw-3/blob/master/.github/happy.png?raw=true" width="100%">
+</p>
+
 <p id="insomniaButton" align="center">
   <a href="https://insomnia.rest/run/?label=Proffy%20API%20-%20EliasGcf&uri=https%3A%2F%2Fraw.githubusercontent.com%2FEliasGcf%2Fproffy%2Fmaster%2FInsomnia.json" target="_blank">
     <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
