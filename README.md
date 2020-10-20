@@ -7,17 +7,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/DanielLeal98/"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%2315C3D6"></a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/nlw-3?color=15C3D6">
-  <a href="https://github.com/DanielLeal98/nlw3-happy/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielLeal98/nlw-3?color=15C3D6"></a>
-  <img alt="GitHub" src="https://github.com/EliasGcf/nlw-3/blob/master/.github/happy.png">
-</p>
-
-<p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
